@@ -8,19 +8,20 @@ But this series is also personal. I’m on my journey as a Junior/Associate Data
 
 Each season contains multiple episodes, with **step-by-step explanations, project code, and resources, all designed to take you from raw data to cloud-ready pipelines.**
 
-**🌟 Why I Built This Series**
-To document my learning journey in Data Engineering
-To practice and showcase real-world projects using Python, SQL, AWS, dbt, Snowflake, Databricks, and modern tools
-To help beginners understand complex concepts through practical examples
-To share knowledge publicly, showing recruiters my initiative, curiosity, and technical growth
-To build a strong Data Engineering portfolio while preparing my application for the AWS Community Builders program, demonstrating my commitment to cloud technologies and the data engineering community
+## 🌟 Why I Built This Series
 
-**📚 References & Learning Materials**
-Fundamentals of Data Engineering — Joe Reis
-Data Engineering with Python — Paul Crickard
-Data Engineering in AWS — Gareth Eagar
-Data Engineering Design Patterns — Bartosz Konieczny
-Official documentation for AWS, Snowflake, Databricks, Terraform, dbt
+- To document my learning journey in **Data Engineering**
+- To practice and showcase **real-world projects** using **Python, SQL, AWS, dbt, Snowflake, Databricks, and modern tools**
+- To help beginners understand **complex concepts through practical examples**
+- To share knowledge publicly, showing recruiters **my initiative, curiosity, and technical growth**
+- To build a strong **Data Engineering portfolio** while preparing my application for the **AWS Community Builders program**, demonstrating my commitment to **cloud technologies and the data engineering community**
+
+## 📚 References & Learning Materials
+- **Fundamentals of Data Engineering** — Joe Reis
+- **Data Engineering with Python** — Paul Crickard
+- **Data Engineering in AWS** — Gareth Eagar
+- **Data Engineering Design Patterns** — Bartosz Konieczny
+- Official documentation for **AWS, Snowflake, Databricks, Terraform, dbt**
 
 **🌟 Series Overview**
 Series Title: Data Unleashed
