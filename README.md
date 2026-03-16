@@ -13,6 +13,7 @@ To document my learning journey in Data Engineering
 To practice and showcase real-world projects using Python, SQL, AWS, dbt, Snowflake, Databricks, and modern tools
 To help beginners understand complex concepts through practical examples
 To share knowledge publicly, showing recruiters my initiative, curiosity, and technical growth
+To build a strong Data Engineering portfolio while preparing my application for the AWS Community Builders program, demonstrating my commitment to cloud technologies and the data engineering community
 
 **📚 References & Learning Materials**
 Fundamentals of Data Engineering — Joe Reis
